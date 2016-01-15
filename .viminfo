@@ -1,0 +1,776 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/take
+
+# 上个 替换 Search 图案：
+~MSle0&man\/zh_CN
+
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:wq
+:q
+:
+: q
+:Q
+:q!
+:j
+:WQ
+: q!
+:q 
+:qq
+:qw
+:wqall
+:q!all
+:qall
+:vq
+: wq
+:           android:layout_height="match_parent" />
+:           android:layout_width="match_parent"
+:           android:id="@+id/face_view"
+:<org.yanzi.ui.FaceView
+:vsp res/layout/activity_camera.xml
+:w
+:wq!
+:vsp ../camera/CameraInterface.java
+: qall
+:q\
+:kk
+:vsp mycp1.c
+:vsp a.txt
+:Man fputc
+:Man fflush
+:vsp main.c
+:Man malloc
+:vsp b.c
+:Man strcmp
+:Man atoi
+:vsp fun.c
+:vsp 1.c
+:vsp /etc/bash.bashrc
+:vsp 14.sh
+:Man 
+:Man 2 open
+:Man scanf
+:Man 3 printf
+:Man printf
+:Man localtime
+:Man  loacltime
+:sp 3.c
+:vsp 2.c
+:sp 1.c
+:14
+:Man sendto
+:Man setsockopt
+:Man getsockopt
+:Man getservbyname
+:Man getprotobyname
+:Man inet_aton
+:Man inet_addr
+:Man gethostbyname
+:Man gethostbyaddr
+:Man gethsotbyaddr
+:Man gethostname
+:79
+:Man select
+:vsp ping.h
+:Man htonl
+:Man bind
+:Man htlnl
+:sp ../broadcast/recevier.c
+:vsp recevier.c
+:vsp ../broadcast/sender.c
+:vsp getprotobyname
+:Man signal
+:Man errno
+:Man fcntl
+:Man accept
+:Man fork
+:Man connect
+:42
+:Man inet_ntoa
+:vsp socket_ser.c
+:114
+:Man readdir
+:Man opendir
+:vsp socket_ser.
+:Man recv
+:vsp ../socket_ser.c
+:Man socket
+:q!2
+:Man in_addr
+:122
+:vsp sem.c
+:vsp ../shm/shm_fork.c 
+:Man semctl
+:Man semop
+:Man semget
+:Man shmctl
+:Man shmdt
+:20
+
+# 查找字符串 历史记录 (从新到旧)：
+?/------------
+?/--------
+? \<prepareMemory\>
+? \<connectNodes\>
+? \<createNodes\>
+? \<onCmd_capture\>
+? \<mpImpShot\>
+?/mpshot
+?/send
+?/sendcommand
+?/sendcomm
+? \<sendCommand\>
+? \<pShot\>
+? \<postCommand\>
+?/take
+? \<MY_ASSERT_NODE_OP\>
+?/start
+?/sendc
+?/loop
+?/onhaj
+? \<doThreadZsd\>
+? \<takePicture\>
+?/handle
+?/takepicture
+? \<onHandlePreviewCapture\>
+? \<onHandleCapture\>
+?/han
+?/tak
+?/takepi
+?/#########
+?/camadapter->
+?/adaptert
+?/adaptertake
+?/libcam
+?/######
+?/###########
+?/##############
+?/arch
+?/data
+?/set
+?/notify
+?/datacal
+?/not
+? \<postEventFromNative\>
+?/posteve
+? \<env\>
+? \<GetStaticMethodID\>
+?/posteventfromnative
+? \<camera_ref\>
+?/datacallback
+?/event
+?/callback
+?/ta
+?/camerali
+?/cameralistener
+?/camera
+?/noti
+?/data_call
+?/datacall
+? \<mDataCb\>
+?/data_callback
+? \<makePath\>
+? \<handlePostBuffer\>
+? \<onCaptureThreadLoop\>
+?/takepic
+? \<INVALID_OPERATION\>
+? \<take_picture\>
+? \<OPS\>
+?/take_picture
+?/enablem
+? \<enableMsgType\>
+?/takep
+?/eventha
+? \<msgType\>
+?/what
+? \<mEventHandler\>
+?/sendmessage
+?/eventhandler
+?/handler
+? \<mPostviewCallback\>
+? \<mShutterCallback\>
+? \<s\>
+?/##########
+?/*********
+?/#############
+?/##
+? \<D\>
+?/**
+?/*****
+?/**********
+? {
+?/onpic
+? \<onPictureTaken\>
+?/picturecallback
+? \<onShutter\>
+?/shuttercallback
+?/shutter
+? \<CAMERA_MSG_SHUTTER\>
+? \<enqueBuffer\>
+? \<FUNC_START\>
+
+# 表达式 历史记录 (从新到旧)：
+=acp#onPopupPost()
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	LINE	0
+	            MY_LOGD("#####################onStopPreview");
+""1	LINE	0
+	bindkey -v
+"2	LINE	0
+	fjd;losajlkfjl;d
+"3	LINE	0
+	jfalksdfjlasi
+"4	LINE	0
+	        ALOGV("%s(%s)", __FUNCTION__, mName.string());
+"5	LINE	0
+	print(x * 8)
+"6	LINE	0
+	x = 'spam!'
+"7	LINE	0
+	print(2 ** 100)
+"8	LINE	0
+	print(sys.platform)
+"9	LINE	0
+	import sys
+"q	CHAR	0
+	
+"-	CHAR	0
+	#
+
+# 文件标记:
+'0  110  0  ~/.bashrc
+'1  111  9  ~/.bashrc
+'2  1  0  ~/a.c
+'3  91  15  ~/.vimrc
+'4  187  52  ~/scp
+'5  1  0  /work/mtk/alps/kernel-3.10/drivers/misc/mediatek/mach/mt6795/amt6795_demophone/imgsensor/Makefile
+'6  1  0  /work/mtk/alps/kernel-3.10/drivers/misc/mediatek/mach/mt6795/amt6795_demophone/imgsensor/imx214_mipi_raw/Makefile
+'7  425  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/ZipImageCallbackThread.cpp
+'8  577  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.CaptureCallback.cpp
+'9  202  4  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.Capture.cpp
+
+# 跳转列表 (从新到旧):
+-'  110  0  ~/.bashrc
+-'  111  0  ~/.bashrc
+-'  1  0  ~/a.c
+-'  91  15  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  187  52  ~/scp
+-'  1  0  ~/scp
+-'  1  0  /work/mtk/alps/kernel-3.10/drivers/misc/mediatek/mach/mt6795/amt6795_demophone/imgsensor/Makefile
+-'  1  0  /work/mtk/alps/kernel-3.10/drivers/misc/mediatek/mach/mt6795/amt6795_demophone/imgsensor/imx214_mipi_raw/Makefile
+-'  425  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/ZipImageCallbackThread.cpp
+-'  1  23  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/ZipImageCallbackThread.cpp
+-'  577  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.CaptureCallback.cpp
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.CaptureCallback.cpp
+-'  202  4  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.Capture.cpp
+-'  197  4  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.Capture.cpp
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/BaseCamAdapter.cpp
+-'  521  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/device/DefaultCam1Device.cpp
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/client/README
+-'  522  17  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/CamClient.cpp
+-'  516  4  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/CamClient.cpp
+-'  80  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/Android.mk
+-'  98  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/Android.mk
+-'  18536  4  ~/work/a.txt
+-'  2597  32  ~/work/a.txt
+-'  1  0  ~/work/a.txt
+-'  18724  61  ~/work/a.txt
+-'  18790  84  ~/work/a.txt
+-'  18788  84  ~/work/a.txt
+-'  18535  84  ~/work/a.txt
+-'  18530  32  ~/work/a.txt
+-'  30564  0  ~/work/a.txt
+-'  830  8  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Cam1DeviceBase.cpp
+-'  857  9  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Cam1DeviceBase.cpp
+-'  521  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/DefaultCam1Device.cpp
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/DefaultCam1Device.cpp
+-'  92  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/Android.mk
+-'  60  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/Android.mk
+-'  9  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/README
+-'  77  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Android.mk
+-'  85  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Android.mk
+-'  108  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/device/Android.mk
+-'  52  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/device/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/device/Android.mk
+-'  88  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/devicemgr/README
+-'  84  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/devicemgr/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/devicemgr/Android.mk
+-'  49  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Re
+-'  10  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/module/README
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/module/README
+-'  69  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/module/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/module/Android.mk
+-'  2  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/Android.mk
+-'  2  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/Android.mk
+-'  76  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/README
+-'  840  8  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Cam1DeviceBase.cpp
+-'  2  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Android.mk
+-'  7102  23  ~/work/a.txt
+-'  40924  72  ~/work/a.txt
+-'  40910  72  ~/work/a.txt
+-'  40459  72  ~/work/a.txt
+-'  34117  78  ~/work/a.txt
+-'  34102  78  ~/work/a.txt
+-'  34093  78  ~/work/a.txt
+-'  33669  34  ~/work/a.txt
+-'  33670  34  ~/work/a.txt
+-'  18536  4  ~/work/a.txt
+-'  2597  32  ~/work/a.txt
+-'  1  0  ~/work/a.txt
+-'  18724  61  ~/work/a.txt
+-'  18790  84  ~/work/a.txt
+-'  18788  84  ~/work/a.txt
+-'  18535  84  ~/work/a.txt
+-'  18530  32  ~/work/a.txt
+-'  30564  0  ~/work/a.txt
+-'  830  8  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Cam1DeviceBase.cpp
+-'  857  9  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Cam1DeviceBase.cpp
+-'  521  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/DefaultCam1Device.cpp
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/DefaultCam1Device.cpp
+-'  92  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/Android.mk
+-'  60  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/Android.mk
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/Android.mk
+-'  9  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/README
+-'  77  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Android.mk
+-'  85  0  /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Android.mk
+-'  425  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/ZipImageCallbackThread.cpp
+-'  1  23  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/ZipImageCallbackThread.cpp
+-'  577  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.CaptureCallback.cpp
+-'  1  0  /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.CaptureCallback.cpp
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/.bashrc
+	"	110	0
+	.	111	0
+	+	111	0
+
+> ~/a.c
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.vimrc
+	"	91	15
+	^	91	16
+	.	91	15
+	+	91	15
+
+> ~/scp
+	"	187	52
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/core/camnode/ICamGraphNode.cpp
+	"	668	0
+
+> ~/work/a.txt
+	"	30931	11
+	^	34093	61
+	.	34093	61
+	+	33669	35
+	+	34093	61
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/Android.mk
+	"	229	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/Scenario/Shot/ImpShot.cpp
+	"	1	0
+	^	114	7
+	.	103	0
+	+	103	0
+	+	115	6
+	+	103	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/inc/Scenario/Shot/IShot.h
+	"	306	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/Scenario/Shot/inc/ImpShot.h
+	"	97	37
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/core/camshot/SingleShot/SingleShot.cpp
+	"	824	0
+	.	1160	0
+	+	1157	97
+	+	1157	146
+	+	1157	0
+	+	1160	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/Scenario/Shot/NormalShot/NormalShot.cpp
+	"	348	27
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.Capture.cpp
+	"	744	36
+	^	197	15
+	.	197	14
+	+	206	44
+	+	197	38
+	+	204	53
+	+	213	51
+	+	258	52
+	+	259	53
+	+	266	54
+	+	275	50
+	+	258	52
+	+	197	14
+	n	402	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/inc/MtkDefaultCamAdapter.h
+	"	186	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/inc/CaptureCmdQueThread.h
+	"	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/core/camshot/inc/SingleShot.h
+	"	138	20
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/core/camshot/inc/CamShotImp.h
+	"	10	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/include/mtkcam/camshot/_params.h
+	"	129	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/core/camshot/SingleShot/SingleShotCtrlNode.cpp
+	"	743	25
+
+> /work/mtk/alps/vendor/mediatek/proprietary/Single*
+	"	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/include/mtkcam/camnode/ICamGraphNode.h
+	"	313	10
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/CaptureCmdQueThread.cpp
+	"	336	50
+
+> /work/mtk/alps/vendor/mediatek/proprietary/external/meta/common/inc/mlist.h
+	"	99	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/State/State.cpp
+	"	185	25
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkStereo/MtkStereoCamAdapter.Capture.cpp
+	"	219	29
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/State/StateManager.cpp
+	"	480	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/CamNode/DefaultCtrlNode.cpp
+	"	2248	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Cam1DeviceBase.cpp
+	"	858	38
+	^	857	23
+	.	857	22
+	+	857	22
+	n	854	26
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/CamClient.cpp
+	"	515	0
+	^	522	18
+	.	522	17
+	+	516	15
+	+	522	17
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkEng/State/StateManager.cpp
+	"	84	0
+
+> /work/mtk/alps/kernel-3.10/drivers/misc/mediatek/mach/mt6795/amt6795_demophone/imgsensor/Makefile
+	"	1	0
+
+> /work/mtk/alps/kernel-3.10/drivers/misc/mediatek/mach/mt6795/amt6795_demophone/imgsensor/imx214_mipi_raw/Makefile
+	"	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/ZipImageCallbackThread.cpp
+	"	425	0
+	.	1	0
+	+	1	25
+	+	1	102
+	+	1	181
+	+	1	259
+	+	1	333
+	+	1	407
+	+	1	478
+	+	1	492
+	+	1	496
+	+	1	542
+	+	1	546
+	+	1	623
+	+	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/MtkDefaultCamAdapter.CaptureCallback.cpp
+	"	577	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/BaseCamAdapter.cpp
+	"	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/device/DefaultCam1Device.cpp
+	"	521	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/client/README
+	"	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/Android.mk
+	"	80	0
+	.	1	0
+	+	1	24
+	+	1	101
+	+	1	177
+	+	1	250
+	+	1	329
+	+	1	403
+	+	1	490
+	+	1	492
+	+	1	538
+	+	1	541
+	+	1	619
+	+	1	693
+	+	1	773
+	+	1	851
+	+	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/README
+	"	8	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/PreviewCallback/Android.mk
+	"	80	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/R
+	"	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/NOTICE
+	"	1	0
+	^	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/cameracode/hardware/mtkcam/v1/client/CamClient/Android.mk
+	"	57	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/Android.mk
+	"	52	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/DefaultCam1Device.cpp
+	"	521	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/cameracode/platform/v1/device/Android.mk
+	"	92	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/README
+	"	9	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Android.mk
+	"	77	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/device/Android.mk
+	"	108	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/devicemgr/README
+	"	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/devicemgr/Android.mk
+	"	84	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/Android.mk
+	"	49	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Re
+	"	1	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/module/README
+	"	10	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/module/Android.mk
+	"	69	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/module_hal/Android.mk
+	"	2	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/Android.mk
+	"	2	0
+
+> /work/mtk/alps/a.txt
+	"	23549	23
+
+> /etc/passwd
+	"	34	0
+
+> /work/mtk/alps/frameworks/av/include/camera/ICameraService.h
+	"	93	0
+
+> /work/mtk/alps/frameworks/av/include/camera/ICameraClient.h
+	"	56	0
+
+> /work/mtk/alps/frameworks/av/include/camera/ICamera.h
+	"	133	0
+
+> /work/mtk/alps/frameworks/av/camera/ICamera.cpp
+	"	211	8
+
+> /work/mtk/alps/frameworks/av/camera/CaptureResult.cpp
+	"	129	0
+
+> /work/mtk/alps/frameworks/av/camera/CameraBase.cpp
+	"	165	23
+
+> /work/mtk/alps/frameworks/av/include/camera/Camera.h
+	"	49	4
+
+> /work/mtk/alps/frameworks/av/include/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> /work/mtk/alps/frameworks/av/camera/Camera.cpp
+	"	323	41
+	^	364	12
+	.	364	0
+	+	364	0
+
+> /work/mtk/alps/frameworks/base/core/java/android/hardware/Camera.java
+	"	1247	37
+	^	1241	39
+	.	1241	0
+	+	1849	50
+	+	1238	45
+	+	5456	0
+	+	1241	0
+	n	1668	34
+
+> /work/mtk/alps/frameworks/base/core/jni/android_hardware_Camera.cpp
+	"	1721	55
+
+> /work/mtk/alps/frameworks/base/NERD_tree_1
+	"	1	1
+	.	1	0
+	+	1	0
+
+> /work/mtk/alps/frameworks/base/Android.mk
+	"	1188	0
+
+> /work/mtk/alps/frameworks/av/camera/ProCamera.cpp
+	"	70	10
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/api1/CameraClient.cpp
+	"	849	0
+	^	78	30
+	.	78	29
+	+	595	33
+	+	78	29
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/CameraService.cpp
+	"	152	25
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/device1/CameraHardwareInterface.h
+	"	158	55
+	^	404	41
+	.	404	40
+	+	405	0
+	+	404	40
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/CameraService.h
+	"	38	38
+	.	80	0
+	+	80	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/core/camnode/pass2node.capture.cpp
+	"	1084	17
+	^	452	1
+	.	452	0
+	+	452	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/CamNode/DefaultBufHandler.cpp
+	"	594	4
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/core/camnode/pass1node.cpp
+	"	1053	5
+	^	1220	66
+	.	1220	0
+	+	427	0
+	+	1220	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/README
+	"	12	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/v1/adapter/MtkDefault/Android.mk
+	"	102	0
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/metadata/metadataprovider/custom/custom.cpp
+	"	43	31
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/client/CamClient/PreviewCallback/PreviewClient.cpp
+	"	341	8
+
+> /work/mtk/alps/vendor/mediatek/proprietary/hardware/mtkcam/v1/device/Cam1Device.cpp
+	"	321	15
+
+> /work/mtk/alps/frameworks/av/camera/CameraMetadata.cpp
+	"	102	0
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/device1/ls
+	"	1	0
+
+> /work/mtk/alps/out/target/product/amt6795_demophone/system/lib/a.txt
+	"	1	0
+
+> /work/mtk/alps/packages/apps/Camera/src/com/android/camera/CameraActivity.java
+	"	218	21
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/Android.mk
+	"	97	0
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/.git/COMMIT_EDITMSG
+	"	85	0
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/.git/description
+	"	1	0
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/.git/config
+	"	1	0
+
+> /work/mtk/alps/frameworks/av/services/camera/libcameraservice/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> /work/mtk/alps/frameworks/av/include/camera/IMetadataCallbacks.h
+	"	58	0
+
+> /work/mtk/alps/kernel-3.10/README
+	"	289	8
+
+> /work/mtk/alps/kernel-3.10/RE
+	"	1	0
+
+> /work/mtk/alps/kernel-3.10/drivers/video/console/fbcon.c
+	"	2273	29
+
+> /work/mtk/alps/kernel-3.10/drivers/video/fbmem.c
+	"	1990	1
+
+> /work/mtk/alps/vendor/mediatek/proprietary/platform/mt6795/hardware/mtkcam/core/camshot/test/test_singleshot.cpp
+	"	844	18
